@@ -40,3 +40,5 @@
 
 ![Visitors since 1 Jan 2012](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=diyarbakir&repo=diyarbakir&countColor=red)
 
+[![Sparkline](https://stars.medv.io/diyarbakir/DiyarBakir.svg)](https://stars.medv.io/diyarbakir/DiyarBakir)
+
