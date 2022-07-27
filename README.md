@@ -17,7 +17,8 @@
 ✅ [ Onion | Monolithic | Modular ] Architecture Design.  
 ✅ Web App Server [ Nginx | IIS | Kestrel | Apache ]  
 ✅ Managing [ Azure | AWS ] Cloud Service.  
-✅ Cloud File Storage [ Azure Storage | Amazon S3 | Dropbox ]  
+✅ Cloud File Storage [ Azure Storage | Amazon S3 ]  
+✅ Dedicated Server & VPS Managment  
  
 ## 📫 **How to reach me:**  
 📧 info@diyar.co  
