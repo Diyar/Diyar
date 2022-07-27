@@ -3,13 +3,13 @@
 ✨ A Versatile and Professional Software Engineer with a commitment to and experience in developing innovative and creative software solutions with a variety of experience in Website Design, System Development, Server Management, Web Application Architecture, and Software consultant.
 
 ## ⚡ **Skillful in:**    
-✅ Backend Development: [ Asp.Net Core | C# | Asp.Net MVC | MVC | Razor Page]  
+✅ Backend Development: [ Asp.Net Core | C# | Asp.Net MVC | MVC | Razor Page ]  
 ✅ Frontend Development: [ Blazor | Webflow | HTML | CSS | JavaScript ].  
 ✅ Single Page Application: Microsoft Blazor [ Server-Side | Web Assembly ]  
 ✅ [ Microsoft SQL Server | PostgreSQL | MySQL | SQLite | Redis ] Database.  
-✅ [ Syncfusion | JQuery | VueJs | Bootstrap ] Framework.  
+✅ [ Syncfusion | JQuery | Bootstrap ] Framework.  
 ✅ Database ORM. [ Entity Framework Core | Dapper ].  
-✅ Using .Net libraries [ OData | Hangfire | Serilog | Fluent Validation | AutoMapper]  
+✅ Using .Net libraries [ OData | Hangfire | Serilog | Fluent Validation | AutoMapper ]  
 ✅ Identity Authentication [ Identity Server | JWT | Firebase | Google | Facebook ]  
 ✅ Version Control System: Git with [ GitHub | GitLab | BitBucket ].  
 ✅ Communicate with [ RESTful | GRPC | MS Azure | Amazon AWS | Firebase ] API.  
@@ -17,7 +17,7 @@
 ✅ [ Onion | Monolithic | Modular ] Architecture Design.  
 ✅ Web App Server [ Nginx | IIS | Kestrel | Apache ]  
 ✅ Managing [ Azure | AWS ] Cloud Service.  
-✅ Cloud File Storage [ Azure Storage | Amazon S3 | Dropbox]  
+✅ Cloud File Storage [ Azure Storage | Amazon S3 | Dropbox ]  
  
 ## 📫 **How to reach me:**  
 📧 info@diyar.co  
