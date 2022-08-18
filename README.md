@@ -6,17 +6,17 @@
 ✅ Backend Development: [ Asp.Net Core | C# | Asp.Net MVC | MVC | Razor Page ]  
 ✅ Frontend Development: [ Blazor | Webflow | HTML | CSS | JavaScript ].  
 ✅ Single Page Application: Microsoft Blazor [ Server-Side | Web Assembly ]  
-✅ [ Microsoft SQL Server | PostgreSQL | MySQL | SQLite | Redis ] Database.  
-✅ [ Syncfusion | JQuery | Bootstrap ] Framework.  
-✅ Database ORM. [ Entity Framework Core | Dapper ].  
+✅ [ Microsoft SQL Server | PostgreSQL ] Database.  
+✅ [ Syncfusion ] Framework.  
+✅ Database ORM. [ Entity Framework Core ].  
 ✅ Using .Net libraries [ OData | Hangfire | Serilog | Fluent Validation | AutoMapper ]  
 ✅ Identity Authentication [ Identity Server | JWT | Firebase | Google | Facebook ]  
 ✅ Version Control System: Git with [ GitHub | GitLab | BitBucket ].  
 ✅ Communicate with [ RESTful | GRPC | MS Azure | Amazon AWS | Firebase ] API.  
 ✅ Web App hosting on [ Linux Server | Windows Server ].  
 ✅ [ Onion | Monolithic | Modular ] Architecture Design.  
-✅ Web App Server [ Nginx | IIS | Kestrel | Apache ]  
-✅ Managing [ Azure | AWS ] Cloud Service.  
+✅ Web App Server [ Nginx | IIS | Kestrel ]  
+✅ Managing [ Azure | AWS | Oracle Cloud ] Cloud Service.  
 ✅ Cloud File Storage [ Azure Storage | Amazon S3 ]  
 ✅ Dedicated Server & VPS Managment  
  
