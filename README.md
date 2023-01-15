@@ -20,6 +20,18 @@
 ✅ Cloud File Storage [ Azure Storage | Amazon S3 ]  
 ✅ Dedicated Server & VPS Managment  
  
+ ## 🪄 **Working on:** 
+✅ Accounting Software
+✅ ERP, CRM and HR
+✅ Inventory Management
+✅ Grocery Store Management
+✅ Website CMS
+✅ GYM & Sport Center Management
+✅ Clinic Management
+✅ Pharmacy Management
+✅ eCommerce platform
+✅ Point Of Sale (POS)
+ 
 ## 📫 **How to reach me:**  
 📧 info@diyar.io  
 🔗 [My Website](https://diyar.io)  
