@@ -21,8 +21,8 @@
 ✅ Dedicated Server & VPS Managment  
  
 ## 📫 **How to reach me:**  
-📧 info@diyar.co  
-🔗 [My Website](https://diyar.co)  
+📧 info@diyar.io  
+🔗 [My Website](https://diyar.io)  
 💥 [Freelancer](https://www.freelancer.com/u/DiyarBakr)  
 🔗 [Facebook](https://www.facebook.com/DiyarBakirQaradaxy)  
 🐦 [![Twitter](https://img.shields.io/twitter/follow/Diyar_Bakir_?label=Follow%20%40Diyar_Bakir_&style=social)](https://twitter.com/Diyar_Bakir_)  
@@ -37,6 +37,4 @@
 <br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diyarbakir&" alt="diyarbakir" /></p>
-
-![Visitors since 1 Jan 2012](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=diyarbakir&repo=diyarbakir&countColor=red)
 
