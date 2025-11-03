@@ -3,22 +3,21 @@
 ✨ A Versatile and Professional Software Engineer with a commitment to and experience in developing innovative and creative software solutions with a variety of experience in Website Design, System Development, Server Management, Web Application Architecture, and Software consultant.
 
 ## ⚡ **Skillful in:**    
-✅ Backend Development: [ Asp.Net Core | C# | Asp.Net MVC | MVC | Razor Page ]  
-✅ Frontend Development: [ Blazor | Webflow | HTML | CSS | JavaScript ].  
-✅ Single Page Application: Microsoft Blazor [ Server-Side | Web Assembly ]  
+✅ Backend Development: [ Asp.Net Core | C# | Asp.Net MVC | Razor Page ]  
+✅ Frontend Development and Single Page Application: [ Blazor | React | NextJS].
 ✅ [ Microsoft SQL Server | PostgreSQL ] Database.  
-✅ [ Syncfusion ] Framework.  
-✅ Database ORM. [ Entity Framework Core ].  
-✅ Using .Net libraries [ OData | Hangfire | Serilog | Fluent Validation | AutoMapper ]  
-✅ Identity Authentication [ Identity Server | JWT | Firebase | Google | Facebook ]  
-✅ Version Control System: Git with [ GitHub | GitLab | BitBucket ].  
-✅ Communicate with [ RESTful | GRPC | MS Azure | Amazon AWS | Firebase ] API.  
-✅ Web App hosting on [ Linux Server | Windows Server ].  
+✅ [ Syncfusion & DevExpress] Framework.  
+✅ Database ORM. [ EF Core | Prisma | Drizzle ].  
+✅ Using .Net libraries [ Hangfire | Serilog | Fluent Validation | AutoMapper & Mapster | and many more... ]  
+✅ Identity Authentication [ Identity Server | JWT | Firebase | Google | Meta ]  
+✅ Version Control System: Git with [ GitHub | GitLab | BitBucket ].
+✅ Web App hosting on [ Linux Server | Windows Server ].
+✅ 
 ✅ [ Onion | Monolithic | Modular ] Architecture Design.  
 ✅ Web App Server [ Nginx | IIS | Kestrel ]  
 ✅ Managing [ Azure | AWS | Oracle Cloud ] Cloud Service.  
 ✅ Cloud File Storage [ Azure Storage | Amazon S3 ]  
-✅ Dedicated Server & VPS Managment  
+✅ Virtualization with Proxmox on Dedicated Server & VPS 
  
  ## 🪄 **Working on:** 
 ✅ Accounting Software   
