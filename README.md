@@ -12,7 +12,6 @@
 ✅ Identity Authentication [ Identity Server | JWT | Firebase | Google | Meta ]  
 ✅ Version Control System: Git with [ GitHub | GitLab | BitBucket ].
 ✅ Web App hosting on [ Linux Server | Windows Server ].
-✅ 
 ✅ [ Onion | Monolithic | Modular ] Architecture Design.  
 ✅ Web App Server [ Nginx | IIS | Kestrel ]  
 ✅ Managing [ Azure | AWS | Oracle Cloud ] Cloud Service.  
